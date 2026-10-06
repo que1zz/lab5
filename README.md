@@ -24,7 +24,8 @@
 
 ### Блок-схема
 
-<img width="769" height="692" alt="lab5 drawio" src="https://github.com/user-attachments/assets/9149344a-b3da-4633-a0c7-7a535b3c5091" />
+<img width="136" height="542" alt="lab_schem drawio" src="https://github.com/user-attachments/assets/162d3453-2f0e-449d-88d0-e4b919d76f12" />
+
 
 
 #define _CRT_SECURE_NO_DEPRECATE
